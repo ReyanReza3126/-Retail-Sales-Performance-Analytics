@@ -5,6 +5,12 @@ This project focuses on analyzing retail sales data to understand business perfo
 
 An interactive Sales Performance Dashboard was created using Google Sheets to present key business insights through KPIs, charts, and visualizations.
 
+## Project Links
+
+- **Interactive Dashboard:** [View Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1UP-q23iQ-Vc4xnRGX0UkKqIvy7BFYv_s5GA0__NfDS0/edit)
+- **Project Presentation:** [View / Download PPT](Retail_Sales_Performance_Analytics.pptx)
+
+
 ## Project Objectives
 - Analyze overall retail sales and profit.
 - Identify monthly sales trends.
